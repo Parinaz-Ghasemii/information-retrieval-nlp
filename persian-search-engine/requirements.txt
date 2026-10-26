@@ -1,0 +1,1 @@
+jupyter>=1.0\nnotebook>=7.0\nmatplotlib>=3.7\nnumpy>=1.24\n

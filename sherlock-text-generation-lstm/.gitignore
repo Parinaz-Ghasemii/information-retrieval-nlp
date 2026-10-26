@@ -1,0 +1,24 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Raw corpus and generated artifacts
+data/raw/sherlock_holmes/*
+!data/raw/sherlock_holmes/.gitkeep
+data/processed/
+checkpoints/*
+!checkpoints/.gitkeep
+logs/*
+!logs/.gitkeep
+results/*
+!results/.gitkeep

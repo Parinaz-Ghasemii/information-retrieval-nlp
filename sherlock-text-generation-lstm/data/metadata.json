@@ -1,0 +1,302 @@
+[
+    {
+        "title": "A Study In Scarlet",
+        "category": "novel",
+        "file_path": "novels/A Study In Scarlet.txt"
+    },
+    {
+        "title": "The Sign of the Four",
+        "category": "novel",
+        "file_path": "novels/The Sign of the Four.txt"
+    },
+    {
+        "title": "The Valley of Fear",
+        "category": "novel",
+        "file_path": "novels/The Valley of Fear.txt"
+    },
+    {
+        "title": "The Hound of the Baskervilles",
+        "category": "novel",
+        "file_path": "novels/The Hound of the Baskervilles.txt"
+    },
+    {
+        "title": "The Adventure of the Engineers Thumb",
+        "category": "short_story",
+        "file_path": "short_stories/The Adventure of the Engineers Thumb.txt"
+    },
+    {
+        "title": "The Red-Headed League",
+        "category": "short_story",
+        "file_path": "short_stories/The Red-Headed League.txt"
+    },
+    {
+        "title": "The Man with the Twisted Lip",
+        "category": "short_story",
+        "file_path": "short_stories/The Man with the Twisted Lip.txt"
+    },
+    {
+        "title": "A Case of Identity",
+        "category": "short_story",
+        "file_path": "short_stories/A Case of Identity.txt"
+    },
+    {
+        "title": "The Adventure of the Noble Bachelor",
+        "category": "short_story",
+        "file_path": "short_stories/The Adventure of the Noble Bachelor.txt"
+    },
+    {
+        "title": "The Adventure of the Beryl Coronet",
+        "category": "short_story",
+        "file_path": "short_stories/The Adventure of the Beryl Coronet.txt"
+    },
+    {
+        "title": "The Adventure of the Speckled Band",
+        "category": "short_story",
+        "file_path": "short_stories/The Adventure of the Speckled Band.txt"
+    },
+    {
+        "title": "The Five Orange Pips",
+        "category": "short_story",
+        "file_path": "short_stories/The Five Orange Pips.txt"
+    },
+    {
+        "title": "The Adventure of the Blue Carbuncle",
+        "category": "short_story",
+        "file_path": "short_stories/The Adventure of the Blue Carbuncle.txt"
+    },
+    {
+        "title": "The Adventure of the Copper Beeches",
+        "category": "short_story",
+        "file_path": "short_stories/The Adventure of the Copper Beeches.txt"
+    },
+    {
+        "title": "The Boscombe Valley Mystery",
+        "category": "short_story",
+        "file_path": "short_stories/The Boscombe Valley Mystery.txt"
+    },
+    {
+        "title": "A Scandal in Bohemia",
+        "category": "short_story",
+        "file_path": "short_stories/A Scandal in Bohemia.txt"
+    },
+    {
+        "title": "The Red Circle",
+        "category": "short_story",
+        "file_path": "short_stories/The Red Circle.txt"
+    },
+    {
+        "title": "The Dying Detective",
+        "category": "short_story",
+        "file_path": "short_stories/The Dying Detective.txt"
+    },
+    {
+        "title": "Wisteria Lodge",
+        "category": "short_story",
+        "file_path": "short_stories/Wisteria Lodge.txt"
+    },
+    {
+        "title": "The Devils Foot",
+        "category": "short_story",
+        "file_path": "short_stories/The Devils Foot.txt"
+    },
+    {
+        "title": "The Bruce-Partington Plans",
+        "category": "short_story",
+        "file_path": "short_stories/The Bruce-Partington Plans.txt"
+    },
+    {
+        "title": "The Cardboard Box",
+        "category": "short_story",
+        "file_path": "short_stories/The Cardboard Box.txt"
+    },
+    {
+        "title": "Lady Frances Carfax",
+        "category": "short_story",
+        "file_path": "short_stories/Lady Frances Carfax.txt"
+    },
+    {
+        "title": "His Last Bow",
+        "category": "short_story",
+        "file_path": "short_stories/His Last Bow.txt"
+    },
+    {
+        "title": "Silver Blaze",
+        "category": "short_story",
+        "file_path": "short_stories/Silver Blaze.txt"
+    },
+    {
+        "title": "The Musgrave Ritual",
+        "category": "short_story",
+        "file_path": "short_stories/The Musgrave Ritual.txt"
+    },
+    {
+        "title": "The Naval Treaty",
+        "category": "short_story",
+        "file_path": "short_stories/The Naval Treaty.txt"
+    },
+    {
+        "title": "The Greek Interpreter",
+        "category": "short_story",
+        "file_path": "short_stories/The Greek Interpreter.txt"
+    },
+    {
+        "title": "The Resident Patient",
+        "category": "short_story",
+        "file_path": "short_stories/The Resident Patient.txt"
+    },
+    {
+        "title": "The Stockbrokers Clerk",
+        "category": "short_story",
+        "file_path": "short_stories/The Stockbrokers Clerk.txt"
+    },
+    {
+        "title": "The Final Problem",
+        "category": "short_story",
+        "file_path": "short_stories/The Final Problem.txt"
+    },
+    {
+        "title": "The Crooked Man",
+        "category": "short_story",
+        "file_path": "short_stories/The Crooked Man.txt"
+    },
+    {
+        "title": "Yellow Face",
+        "category": "short_story",
+        "file_path": "short_stories/Yellow Face.txt"
+    },
+    {
+        "title": "The Reigate Puzzle",
+        "category": "short_story",
+        "file_path": "short_stories/The Reigate Puzzle.txt"
+    },
+    {
+        "title": "The Lions Mane",
+        "category": "short_story",
+        "file_path": "short_stories/The Lions Mane.txt"
+    },
+    {
+        "title": "The Blanched Soldier",
+        "category": "short_story",
+        "file_path": "short_stories/The Blanched Soldier.txt"
+    },
+    {
+        "title": "The Sussex Vampire",
+        "category": "short_story",
+        "file_path": "short_stories/The Sussex Vampire.txt"
+    },
+    {
+        "title": "The Illustrious Client",
+        "category": "short_story",
+        "file_path": "short_stories/The Illustrious Client.txt"
+    },
+    {
+        "title": "The Veiled Lodger",
+        "category": "short_story",
+        "file_path": "short_stories/The Veiled Lodger.txt"
+    },
+    {
+        "title": "The Retired Colourman",
+        "category": "short_story",
+        "file_path": "short_stories/The Retired Colourman.txt"
+    },
+    {
+        "title": "Shoscombe Old Place",
+        "category": "short_story",
+        "file_path": "short_stories/Shoscombe Old Place.txt"
+    },
+    {
+        "title": "The Mazarin Stone",
+        "category": "short_story",
+        "file_path": "short_stories/The Mazarin Stone.txt"
+    },
+    {
+        "title": "The Creeping Man",
+        "category": "short_story",
+        "file_path": "short_stories/The Creeping Man.txt"
+    },
+    {
+        "title": "The Three Gables",
+        "category": "short_story",
+        "file_path": "short_stories/The Three Gables.txt"
+    },
+    {
+        "title": "Thor Bridge",
+        "category": "short_story",
+        "file_path": "short_stories/Thor Bridge.txt"
+    },
+    {
+        "title": "The Three Garridebs",
+        "category": "short_story",
+        "file_path": "short_stories/The Three Garridebs.txt"
+    },
+    {
+        "title": "The Six Napoleons",
+        "category": "short_story",
+        "file_path": "short_stories/The Six Napoleons.txt"
+    },
+    {
+        "title": "The Empty House",
+        "category": "short_story",
+        "file_path": "short_stories/The Empty House.txt"
+    },
+    {
+        "title": "The Second Stain",
+        "category": "short_story",
+        "file_path": "short_stories/The Second Stain.txt"
+    },
+    {
+        "title": "Charles Augustus Milverton",
+        "category": "short_story",
+        "file_path": "short_stories/Charles Augustus Milverton.txt"
+    },
+    {
+        "title": "The Golden Pince-Nez",
+        "category": "short_story",
+        "file_path": "short_stories/The Golden Pince-Nez.txt"
+    },
+    {
+        "title": "The Solitary Cyclist",
+        "category": "short_story",
+        "file_path": "short_stories/The Solitary Cyclist.txt"
+    },
+    {
+        "title": "The Abbey Grange",
+        "category": "short_story",
+        "file_path": "short_stories/The Abbey Grange.txt"
+    },
+    {
+        "title": "The Missing Three-Quarter",
+        "category": "short_story",
+        "file_path": "short_stories/The Missing Three-Quarter.txt"
+    },
+    {
+        "title": "The Three Students",
+        "category": "short_story",
+        "file_path": "short_stories/The Three Students.txt"
+    },
+    {
+        "title": "Black Peter",
+        "category": "short_story",
+        "file_path": "short_stories/Black Peter.txt"
+    },
+    {
+        "title": "The Priory School",
+        "category": "short_story",
+        "file_path": "short_stories/The Priory School.txt"
+    },
+    {
+        "title": "The Dancing Men",
+        "category": "short_story",
+        "file_path": "short_stories/The Dancing Men.txt"
+    },
+    {
+        "title": "The Norwood Builder",
+        "category": "short_story",
+        "file_path": "short_stories/The Norwood Builder.txt"
+    },
+    {
+        "title": "The Gloria Scott",
+        "category": "short_story",
+        "file_path": "short_stories/The Gloria Scott.txt"
+    }
+]
