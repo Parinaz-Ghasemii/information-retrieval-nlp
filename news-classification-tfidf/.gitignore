@@ -1,9 +1,0 @@
-# macOS / Python / Jupyter
-.DS_Store
-__pycache__/
-.ipynb_checkpoints/
-.venv/
-venv/
-
-# datasets are not redistributed here
-*.csv
